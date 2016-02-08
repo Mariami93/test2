@@ -1,2 +1,2 @@
-Hello this is my first steps in git
-Hello this change is made from outside :D
+Hello this is my first steps in git  , hello how are you?
+Hello this change is made from outside :D 
